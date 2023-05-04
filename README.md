@@ -2,9 +2,13 @@
 # Objective 1
 
 1. Simple DSP in Matlab 
-Create a vector t representing the time variable with range of one 
-second and sampling period of Ts=0.001 sec  Create a plot that approximates the continuous time signal 
-x(t)=cos(4πt) for 0≤t≤1, using the plot function  Label the plot using the xlabel,ylabel and tittle function  Downsample 
+   a.Create a vector t representing the time variable with range of one second and sampling period of Ts=0.001 sec 
+
+   b.Create a plot that approximates the continuous time signal x(t)=cos(4πt) for 0≤t≤1, using the plot function 
+
+   c. Label the plot using the xlabel,ylabel and tittle function 
+
+   d. Downsample 
 
 2. Simple Waveform with STM32 
 We want to generate a continuous sinusoid signal 
